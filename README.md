@@ -7,7 +7,7 @@ Os nomes das fotos são gerados utilizando o uniqid e ainda são criptografados 
 
 Abaixo tem a classe que faz o upload da imagem e redimensiona a mesma. Para a utilização basta instanciar a classe e chamar o método Redimensionar onde vão ser enviados os dados da imagem, a largura que se deseja que a imagem tenha e a pasta onde será salva a imagem.
 
-**
+**********
 
 <?php
 class Redimensiona{
@@ -49,4 +49,4 @@ class Redimensiona{
 }
 ?>
 
-**
+**********
